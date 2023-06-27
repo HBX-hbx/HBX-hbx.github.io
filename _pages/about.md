@@ -27,10 +27,10 @@ Looking forward, I am going to be a Ph.D. student in [THUNLP Lab](https://nlp.cs
 
 (*indicates equal contribution)
 
-[A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks](https://arxiv.org/abs/2206.08514) 
+[A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks](https://arxiv.org/abs/2206.08514) **(Spotlight)**
 Ganqu Cui\*, Lifan Yuan*, **Bingxiang He**, Yangyi Chen, Zhiyuan Liu, Maosong Sun.
 *NeurIPS Datasets & Benchmarks* 2022 [[code\]](https://github.com/thunlp/OpenBackdoor)
 
 ## For more information
 
-More info about me can be found in [CV](https://hbx-hbx.github.io/cv/) or [downloaded CV](http://hbx-hbx.github.io/files/CV.pdf).
+More info about me can be found in [CV](https://hbx-hbx.github.io/cv/) or [downloaded CV](http://hbx-hbx.github.io/files/CV__English_.pdf).
