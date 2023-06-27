@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -20,7 +19,6 @@ Academic
 ======
 
 * **GPA**: 3.96 / 4.00, **Rank**: 5/182
-* Courses of **A & A+**: Linear Algebra, Introduction to Complex Analysis, Foundation of Object-Oriented Programming, Software Engineering, Introduction to Artificial Intelligence, Artificial Neural Networks, Fundamentals of Computer Graphics, A General Introduction to Economics, Writing and Communication.
 * Courses of **A+** : English for Academic Purposes (A): Spoken Communication, Probability and Statistics, Physics for Scientists and Engineers B(2)、Artificial Neural Networks 
 * Courses of **A** : Fundamentals of Computer Science, Fundamentals of Programming, Programing and Training, Foundation of Object-Oriented Programming, Assembly Language Programming, Calculus A(1), Calculus A(2), Linear Algebra, Advanced Topics in Linear Algebra, Discrete Mathematics(1), Physics for Scientists and Engineers B(1), Introduction to Artificial Intelligence, Software Engineering, Digital Logic Circuit, Digital Logic Experimentation, Fundamentals of Computer Graphics, Introduction to Modern Cryptography
 * A member of THUNLP (THU Natural Language Processing Group), advised by Associate Professor Zhiyuan Liu.
