@@ -18,9 +18,9 @@ Education
 Academic
 ======
 
-* **GPA**: 3.96 / 4.00, **Rank**: 5/182
-* Courses of **A+** : English for Academic Purposes (A): Spoken Communication, Probability and Statistics, Physics for Scientists and Engineers B(2)、Artificial Neural Networks 
-* Courses of **A** : Fundamentals of Computer Science, Fundamentals of Programming, Programing and Training, Foundation of Object-Oriented Programming, Assembly Language Programming, Calculus A(1), Calculus A(2), Linear Algebra, Advanced Topics in Linear Algebra, Discrete Mathematics(1), Physics for Scientists and Engineers B(1), Introduction to Artificial Intelligence, Software Engineering, Digital Logic Circuit, Digital Logic Experimentation, Fundamentals of Computer Graphics, Introduction to Modern Cryptography
+* **GPA**: 3.97 / 4.00, **Rank**: 4/181
+* Courses of **A+** : **English for Academic Purposes (A): Spoken Communication**, Probability and Statistics, Physics for Scientists and Engineers B(2)、**Artificial Neural Networks**
+* Courses of **A** : Fundamentals of Computer Science, **Fundamentals of Programming, Programing and Training, Foundation of Object-Oriented Programming, Assembly Language Programming, Calculus A(1), Calculus A(2), Linear Algebra, Advanced Topics in Linear Algebra, Discrete Mathematics(1)**, Physics for Scientists and Engineers B(1), Introduction to Artificial Intelligence, Software Engineering, **Digital Logic Circuit, Digital Logic Experimentation**, Fundamentals of Computer Graphics, Introduction to Modern Cryptography, **Principles of Signal Processing**, **Principles and Practice of Compiler Construction**, Introduction to High Performance Computing, **Operating Systems**, Database Special Topic Training, **Cybersecurity Fundamentals**
 * A member of THUNLP (THU Natural Language Processing Group), advised by Associate Professor Zhiyuan Liu.
 
 Publications
@@ -37,12 +37,12 @@ Publications
 # Research & Project Experiences
 
 + Apr 2022 - Sept 2022: **OpenBackdoor: An open-source toolkit for textual backdoor attack and defense**
-  * Directed by Associate Professor Zhiyuan Liu, THUNLP.
+  * Directed by Associate [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/), THUNLP.
 
   * Summarize three practical scenarios of attack methods based on their accessibility and goals.
   * Conclude novel metrics for three evaluation dimensions and recommend scenario-specified evaluation methodologies.
   * Develop an open-source toolkit [OpenBackdoor](https://github.com/thunlp/OpenBackdoor) and conduct extensive benchmark experiments.
-  * Propose **CUBE**, a simple yet strong baseline method targeting purifying poisoned datasets
+  * Propose **CUBE**, a simple yet strong baseline method targeting purifying poisoned datasets.
   * Second author. Paper submitted to NeurIPS 2022 D&B.
 + Sept 2022 - Dec 2022: Chrome Extension Development for **AtomEcho : Webpage to Table**
   + Front-end framework: React
@@ -72,12 +72,12 @@ Teaching
 Honors & Awards
 ======
 
-* Second Prize in Freshmen Scholarship, Tsinghua University. (2020)
-* Gold Award in Social Practice, Communist Youth League Tsinghua University Committee. (2021)
-* Comprehensive Excellence Award for the 2020-2021 school year, Dept. of CST. (2021)
-* Second Prize in National Undergraduate Physics Competition, Beijing Physics Society. (2021)
-* December-9th Scholarship, highest scholarship in Dept. of CST. (2022)
-* Third Prize in THU Challenge Cup Academic Competition, Tsinghua University. (2022)
+* Second Prize in Freshmen Scholarship, Tsinghua University. (09, 2020)
+* Second Prize in National Undergraduate Physics Competition, Beijing Physics Society. (04, 2021)
+* Comprehensive Excellence Award for the 2020-2021 school year, Dept. of CST. (10, 2021)
+* Gold Award in Social Practice, Communist Youth League Tsinghua University Committee. (04, 2022)
+* Third Prize in THU Challenge Cup Academic Competition, Tsinghua University. (04, 2022)
+* December-9th Scholarship, highest scholarship in Dept. of CST. (10, 2022)
 
 Skills & Expertise 
 ======
