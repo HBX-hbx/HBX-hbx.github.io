@@ -50,6 +50,12 @@ Publications
   + Internship location: AtomEcho, Beijing
   + Responsibilities: Core Member
   + [Project](https://chrome.google.com/webstore/detail/atomecho-webpage-to-table/ammnfpnbidmeilbgennibfgbojpdmkjb): Registered in the Chrome Web Store
++ Jun 2023 - Jul 2023: TensorFlow Vulnerability Information Summary
+  + Language: Python
+  + nternship location: 360, Beijing
+  + Responsibilities: Core Member
+  + Duty: Organize the information of more than 400 CVE vulnerabilities reported by the TensorFlow framework, including vulnerability impact version, vulnerability hazard, vulnerability impact operator, recurrence parameters and many other vulnerability information.
+
 
 <!-- Publications
 ======
