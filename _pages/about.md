@@ -31,6 +31,12 @@ Looking forward, I am going to be a Ph.D. student in [THUNLP Lab](https://nlp.cs
 Ganqu Cui\*, Lifan Yuan*, **Bingxiang He**, Yangyi Chen, Zhiyuan Liu, Maosong Sun.
 *NeurIPS Datasets & Benchmarks* 2022 [[code\]](https://github.com/thunlp/OpenBackdoor)
 
+[Beat LLMs at Their Own Game: Zero-Shot LLM-Generated Text Detection via Querying ChatGPT](https://openreview.net/pdf?id=Yg5uDwWQti)
+
+Biru Zhu, Lifan Yuan, Ganqu Cui, Yangyi Chen, Chong Fu, Bingxiang He, Yangdong Deng, Zhiyuan Liu, Maosong Sun, Ming Gu.
+
+**In submission to** EMNLP 2023
+
 ## For more information
 
 More info about me can be found in [CV](https://hbx-hbx.github.io/cv/) or [downloaded CV](http://hbx-hbx.github.io/files/CV__English_.pdf).

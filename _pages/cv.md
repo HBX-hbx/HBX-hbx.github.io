@@ -34,6 +34,12 @@ Publications
 
   *NeurIPS Datasets & Benchmarks* 2022 [[code]](https://github.com/thunlp/OpenBackdoor)
 
++ [Beat LLMs at Their Own Game: Zero-Shot LLM-Generated Text Detection via Querying ChatGPT](https://openreview.net/pdf?id=Yg5uDwWQti)
+
+  Biru Zhu, Lifan Yuan, Ganqu Cui, Yangyi Chen, Chong Fu, Bingxiang He, Yangdong Deng, Zhiyuan Liu, Maosong Sun, Ming Gu.
+
+  **In submission to** EMNLP 2023
+
 # Research & Project Experiences
 
 + Apr 2022 - Sept 2022: **OpenBackdoor: An open-source toolkit for textual backdoor attack and defense**
@@ -55,6 +61,11 @@ Publications
   + nternship location: 360, Beijing
   + Responsibilities: Core Member
   + Duty: Organize the information of more than 400 CVE vulnerabilities reported by the TensorFlow framework, including vulnerability impact version, vulnerability hazard, vulnerability impact operator, recurrence parameters and many other vulnerability information.
++ Jul 2023 - Now: Research and development based on semantic understanding with Chinese characteristics
+  + Language: Python
+  + From: MIGU
+  + Responsibilities: Core Member, Preprocess the data for post-training and supervised fine-tuning, and independently complete the code implementation.
+  + Solution: Using CPM-Bee-10B as the base model, we extensively collect data including the MFAs’speeches, etc., and carry out post-training, supervised fine-tuning, and RLHF three-stage training.
 
 
 <!-- Publications
@@ -83,7 +94,8 @@ Honors & Awards
 * Comprehensive Excellence Award for the 2020-2021 school year, Dept. of CST. (10, 2021)
 * Gold Award in Social Practice, Communist Youth League Tsinghua University Committee. (04, 2022)
 * Third Prize in THU Challenge Cup Academic Competition, Tsinghua University. (04, 2022)
-* December-9th Scholarship, highest scholarship in Dept. of CST. (10, 2022)
+* Second Prize in the 3rd Guangdong-Hong Kong-Macao ”Greater Bay Area Cup” Financial Mathematical Modeling Competition. (12, 2022)
+* December-9th Scholarship, highest scholarship in Dept. of CST. (01, 2023)
 
 Skills & Expertise 
 ======
