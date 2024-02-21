@@ -84,7 +84,7 @@ Honors & Awards
 * Comprehensive Excellence Award for the 2020-2021 school year, Dept. of CST. (10, 2021)
 * Third Prize in THU Challenge Cup Academic Competition, Tsinghua University. (04, 2022)
 * December-9th Scholarship, highest scholarship in Dept. of CST. (01, 2023)
-* Comprehensive Excellence Award for the 2022-2023 school year, Dept. of CST}{10, 2023}
+* Comprehensive Excellence Award for the 2022-2023 school year, Dept. of CST. (10, 2023)
 
 Skills & Expertise 
 ======

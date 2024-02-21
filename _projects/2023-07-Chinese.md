@@ -7,9 +7,9 @@ date: 2023-07-01
 
 Background:
 
-* Large models are widely used in social media, and incorrect remarks and opinions may have a negative social impact.
-2. Large language models developed by the West have ideological application risks.
-3. Domestic large language model research and development mostly focuses on the expansion of general capabilities and pays less attention to ideological aspects.
+* Large models are widely used in social media, and incorrect remarks and opinions may have a negative social impact.、
+* Large language models developed by the West have ideological application risks.
+* Domestic large language model research and development mostly focuses on the expansion of general capabilities and pays less attention to ideological aspects.
 
 Contributions:
 
