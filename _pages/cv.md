@@ -44,13 +44,13 @@ Publications
 # Research & Project Experiences
 
 + Apr 2022 - Sept 2022: **OpenBackdoor: An open-source toolkit for textual backdoor attack and defense**
-  * Directed by Associate [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/), THUNLP.
-
-  * Summarize three practical scenarios of attack methods based on their accessibility and goals.
-  * Conclude novel metrics for three evaluation dimensions and recommend scenario-specified evaluation methodologies.
-  * Develop an open-source toolkit [OpenBackdoor](https://github.com/thunlp/OpenBackdoor) and conduct extensive benchmark experiments.
-  * Propose **CUBE**, a simple yet strong baseline method targeting purifying poisoned datasets.
-  * Second author. Paper submitted to NeurIPS 2022 D&B.
+  + Directed by Associate [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/), THUNLP.
+  + Summarize three practical scenarios of attack methods based on their accessibility and goals.
+  + Conclude novel metrics for three evaluation dimensions and recommend scenario-specified evaluation methodologies.
+  + Develop an open-source toolkit [OpenBackdoor](https://github.com/thunlp/OpenBackdoor) and conduct extensive benchmark experiments.
+  + Propose **CUBE**, a simple yet strong baseline method targeting purifying poisoned datasets.
+  + Second author. Paper submitted to NeurIPS 2022 D&B.
+  
 + Jul 2023 - Now: Research and development based on semantic understanding with Chinese characteristics
   + Language: Python
   + From: MIGU

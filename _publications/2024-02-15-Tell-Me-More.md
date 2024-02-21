@@ -1,7 +1,7 @@
 ---
 title: "Tell Me More! Towards Implicit User Intention Understanding of Language Model Driven Agents"
 collection: publications
-permalink: /publication/2024-02-15-Tell_Me_More
+permalink: /publication/2024-02-15-Tell-Me-More
 excerpt: 'We introduce Intention-in-Interaction (IN3), a novel benchmark designed to inspect users' implicit intentions through explicit queries. Employing IN3, we empirically train Mistral-Interact, a powerful model that proactively assesses task vagueness, inquires user intentions, and refines them into actionable goals before starting downstream agent task execution.'
 date: 2024-02-15
 venue: 'ACL 2024 In submission'
