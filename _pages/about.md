@@ -27,15 +27,31 @@ Looking forward, I am going to be a Ph.D. student in [THUNLP Lab](https://nlp.cs
 
 (*indicates equal contribution)
 
-[A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks](https://arxiv.org/abs/2206.08514) **(Spotlight)**
-Ganqu Cui\*, Lifan Yuan*, **Bingxiang He**, Yangyi Chen, Zhiyuan Liu, Maosong Sun.
-*NeurIPS Datasets & Benchmarks* 2022 [[code\]](https://github.com/thunlp/OpenBackdoor)
+- [A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks](https://arxiv.org/abs/2206.08514) **(Spotlight)**
 
-[Beat LLMs at Their Own Game: Zero-Shot LLM-Generated Text Detection via Querying ChatGPT](https://openreview.net/pdf?id=Yg5uDwWQti)
+  Ganqu Cui\*, Lifan Yuan\*, **Bingxiang He**, Yangyi Chen, Zhiyuan Liu, Maosong Sun.
 
-Biru Zhu, Lifan Yuan, Ganqu Cui, Yangyi Chen, Chong Fu, Bingxiang He, Yangdong Deng, Zhiyuan Liu, Maosong Sun, Ming Gu.
+  *NeurIPS Datasets & Benchmarks 2022* [[code]](https://github.com/thunlp/OpenBackdoor)
 
-**In submission to** EMNLP 2023
+- [Beat LLMs at Their Own Game: Zero-Shot LLM-Generated Text Detection via Querying ChatGPT](https://aclanthology.org/2023.emnlp-main.463/)
+
+  Biru Zhu, Lifan Yuan, Ganqu Cui, Yangyi Chen, Chong Fu, **Bingxiang He**, Yangdong Deng, Zhiyuan Liu, Maosong Sun, Ming Gu.
+
+  *EMNLP 2023 Main* [[code](https://github.com/thunlp/LLM-generated-text-detection)]
+
+- [ULTRAFEEDBACK: Boosting Language Models with Scaled AI Feedback](https://arxiv.org/abs/2310.01377)
+
+  Ganqu Cui\*, Lifan Yuan\*, Ning Ding, Guanming Yao, **Bingxiang He**, Wei Zhu, Yuan Ni, Guotong Xie, Ruobing Xie, Yankai Lin, Zhiyuan Liu, Maosong Sun.
+
+  *ICML 2024 In Submission*
+
+- [Tell Me More! Towards Implicit User Intention Understanding of Language Model Driven Agents](https://arxiv.org/abs/2402.09205)
+
+  Cheng Qian\*, **Bingxiang He\***, Zhong Zhuang, Jia Deng, Yujia Qin, Xin Cong, Zhong Zhang, Jie Zhou, Yankai Lin, Zhiyuan Liu, Maosong Sun.
+
+  *ACL 2024 In Submission* [[code](https://github.com/HBX-hbx/Mistral-Interact)]
+
+
 
 ## For more information
 

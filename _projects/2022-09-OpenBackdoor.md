@@ -1,6 +1,6 @@
 ---
 title: "A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks"
-excerpt: "NeurIPS 2022 Datasets & Benchmarks. The pipe of Openbackdoor toolkit: <br/><img src='/images/hbx/pipeline.png'>"
+excerpt: "NeurIPS 2022 Datasets & Benchmarks. The pipe of Openbackdoor toolkit: <br/><img src='/images/hbx/project_openbackdoor.png'>"
 collection: projects
 date: 2022-09-17
 ---

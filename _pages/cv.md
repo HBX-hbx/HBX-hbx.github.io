@@ -28,17 +28,29 @@ Publications
 
 (*indicates equal contribution)
 
-+ [A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks](https://arxiv.org/abs/2206.08514) **(Spotlight)**
+- [A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks](https://arxiv.org/abs/2206.08514) **(Spotlight)**
 
-  Ganqu Cui\*, Lifan Yuan*, **Bingxiang He**, Yangyi Chen, Zhiyuan Liu, Maosong Sun. 
+  Ganqu Cui\*, Lifan Yuan\*, **Bingxiang He**, Yangyi Chen, Zhiyuan Liu, Maosong Sun.
 
-  *NeurIPS Datasets & Benchmarks* 2022 [[code]](https://github.com/thunlp/OpenBackdoor)
+  *NeurIPS Datasets & Benchmarks 2022* [[code]](https://github.com/thunlp/OpenBackdoor)
 
-+ [Beat LLMs at Their Own Game: Zero-Shot LLM-Generated Text Detection via Querying ChatGPT](https://openreview.net/pdf?id=Yg5uDwWQti)
+- [Beat LLMs at Their Own Game: Zero-Shot LLM-Generated Text Detection via Querying ChatGPT](https://aclanthology.org/2023.emnlp-main.463/)
 
-  Biru Zhu, Lifan Yuan, Ganqu Cui, Yangyi Chen, Chong Fu, Bingxiang He, Yangdong Deng, Zhiyuan Liu, Maosong Sun, Ming Gu.
+  Biru Zhu, Lifan Yuan, Ganqu Cui, Yangyi Chen, Chong Fu, **Bingxiang He**, Yangdong Deng, Zhiyuan Liu, Maosong Sun, Ming Gu.
 
-  **In submission to** EMNLP 2023
+  *EMNLP 2023 Main* [[code](https://github.com/thunlp/LLM-generated-text-detection)]
+
+- [ULTRAFEEDBACK: Boosting Language Models with Scaled AI Feedback](https://arxiv.org/abs/2310.01377)
+
+  Ganqu Cui\*, Lifan Yuan\*, Ning Ding, Guanming Yao, **Bingxiang He**, Wei Zhu, Yuan Ni, Guotong Xie, Ruobing Xie, Yankai Lin, Zhiyuan Liu, Maosong Sun.
+
+  *ICML 2024 In Submission*
+
+- [Tell Me More! Towards Implicit User Intention Understanding of Language Model Driven Agents](https://arxiv.org/abs/2402.09205)
+
+  Cheng Qian\*, **Bingxiang He\***, Zhong Zhuang, Jia Deng, Yujia Qin, Xin Cong, Zhong Zhang, Jie Zhou, Yankai Lin, Zhiyuan Liu, Maosong Sun.
+
+  *ACL 2024 In Submission* [[code](https://github.com/HBX-hbx/Mistral-Interact)]
 
 # Research & Project Experiences
 
@@ -50,22 +62,11 @@ Publications
   * Develop an open-source toolkit [OpenBackdoor](https://github.com/thunlp/OpenBackdoor) and conduct extensive benchmark experiments.
   * Propose **CUBE**, a simple yet strong baseline method targeting purifying poisoned datasets.
   * Second author. Paper submitted to NeurIPS 2022 D&B.
-+ Sept 2022 - Dec 2022: Chrome Extension Development for **AtomEcho : Webpage to Table**
-  + Front-end framework: React
-  + Language: JavaScript, TypeScript, Html, CSS, CSS3
-  + Internship location: AtomEcho, Beijing
-  + Responsibilities: Core Member
-  + [Project](https://chrome.google.com/webstore/detail/atomecho-webpage-to-table/ammnfpnbidmeilbgennibfgbojpdmkjb): Registered in the Chrome Web Store
-+ Jun 2023 - Jul 2023: TensorFlow Vulnerability Information Summary
-  + Language: Python
-  + nternship location: 360, Beijing
-  + Responsibilities: Core Member
-  + Duty: Organize the information of more than 400 CVE vulnerabilities reported by the TensorFlow framework, including vulnerability impact version, vulnerability hazard, vulnerability impact operator, recurrence parameters and many other vulnerability information.
 + Jul 2023 - Now: Research and development based on semantic understanding with Chinese characteristics
   + Language: Python
   + From: MIGU
-  + Responsibilities: Core Member, Preprocess the data for post-training and supervised fine-tuning, and independently complete the code implementation.
-  + Solution: Using CPM-Bee-10B as the base model, we extensively collect data including the MFAs’speeches, etc., and carry out post-training, supervised fine-tuning, and RLHF three-stage training.
+  + Responsibilities: Core Member
+  + Solution: Using CPM-C as the base model, we extensively collect data including the MFAs’speeches, etc., and carry out post-training, supervised fine-tuning, and RLHF three-stage training.
 
 
 <!-- Publications
@@ -92,10 +93,9 @@ Honors & Awards
 * Second Prize in Freshmen Scholarship, Tsinghua University. (09, 2020)
 * Second Prize in National Undergraduate Physics Competition, Beijing Physics Society. (04, 2021)
 * Comprehensive Excellence Award for the 2020-2021 school year, Dept. of CST. (10, 2021)
-* Gold Award in Social Practice, Communist Youth League Tsinghua University Committee. (04, 2022)
 * Third Prize in THU Challenge Cup Academic Competition, Tsinghua University. (04, 2022)
-* Second Prize in the 3rd Guangdong-Hong Kong-Macao ”Greater Bay Area Cup” Financial Mathematical Modeling Competition. (12, 2022)
 * December-9th Scholarship, highest scholarship in Dept. of CST. (01, 2023)
+* Comprehensive Excellence Award for the 2022-2023 school year, Dept. of CST}{10, 2023}
 
 Skills & Expertise 
 ======
