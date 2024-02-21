@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-09-17-OpenBackdoor
 excerpt: 'The paper develop an open-source toolkit OpenBackdoor to foster the implementations and evaluations of textual backdoor learning, and propose a simple yet strong clustering-based defense baseline'
 date: 2022-09-17
-venue: '<b>NeurIPS 2022 Datasets & Benchmarks</b>'
+venue: '<b>NeurIPS Datasets & Benchmarks</b>'
 paperurl: 'https://arxiv.org/abs/2206.08514'
 citation: 'Cui G, Yuan L, He B, et al. A unified evaluation of textual backdoor learning: Frameworks and benchmarks[J]. Advances in Neural Information Processing Systems, 2022, 35: 5009-5023.'
 
