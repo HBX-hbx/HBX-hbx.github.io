@@ -13,13 +13,14 @@ redirect_from:
 Education
 ======
 
-* B.Eng. in Computer Science and Technology, Tsinghua University, Beijing, China, 2020-2024 (expected)
+* B.Eng. in Computer Science and Technology, Tsinghua University, Beijing, China, 2020-2024
+* PhD candidate in Computer Science and Technology, Tsinghua University, Beijing, China, 2024-2029 (expected)
 
 Academic
 ======
 
 * **GPA**: 3.97 / 4.00, **Rank**: 4/181
-* Courses of **A+** : **English for Academic Purposes (A): Spoken Communication**, Probability and Statistics, Physics for Scientists and Engineers B(2)、**Artificial Neural Networks**
+* Courses of **A+** : **English for Academic Purposes (A): Spoken Communication**, Probability and Statistics, Physics for Scientists and Engineers B(2), **Artificial Neural Networks**, Diploma Project(Thesis)
 * Courses of **A** : Fundamentals of Computer Science, **Fundamentals of Programming, Programing and Training, Foundation of Object-Oriented Programming, Assembly Language Programming, Calculus A(1), Calculus A(2), Linear Algebra, Advanced Topics in Linear Algebra, Discrete Mathematics(1)**, Physics for Scientists and Engineers B(1), Introduction to Artificial Intelligence, Software Engineering, **Digital Logic Circuit, Digital Logic Experimentation**, Fundamentals of Computer Graphics, Introduction to Modern Cryptography, **Principles of Signal Processing**, **Principles and Practice of Compiler Construction**, Introduction to High Performance Computing, **Operating Systems**, Database Special Topic Training, **Cybersecurity Fundamentals**
 * A member of THUNLP (THU Natural Language Processing Group), advised by Associate Professor Zhiyuan Liu.
 
@@ -36,10 +37,13 @@ Publications
   *EMNLP 2023 Main* [[code](https://github.com/thunlp/LLM-generated-text-detection)]
 - **UltraFeedback: Boosting Language Models with High-quality Feedback** [[Paper\]](https://arxiv.org/abs/2310.01377)<br>
   Ganqu Cui\*, Lifan Yuan\*, Ning Ding, Guanming Yao, **Bingxiang He**, Wei Zhu, Yuan Ni, Guotong Xie, Ruobing Xie, Yankai Lin, Zhiyuan Liu, Maosong Sun.<br>
-  *ICML 2024 In Submission*
+  *ICML 2024 Poster*
 - **Tell Me More! Towards Implicit User Intention Understanding of Language Model Driven Agents** [[Paper\]](https://arxiv.org/abs/2402.09205)<br>
   Cheng Qian\*, **Bingxiang He\***, Zhong Zhuang, Jia Deng, Yujia Qin, Xin Cong, Zhong Zhang, Jie Zhou, Yankai Lin, Zhiyuan Liu, Maosong Sun.<br>
-  *ACL 2024 In Submission* [[code](https://github.com/HBX-hbx/Mistral-Interact)]
+  *ACL 2024 Main* [[code](https://github.com/HBX-hbx/Mistral-Interact)]
+- **Zero-Shot Generalization during Instruction Tuning: Insights from Similarity and Granularity** [[Paper\]](https://arxiv.org/abs/2406.11721)<br>
+  **Bingxiang He\***, Ning Ding\*, Cheng Qian\*, Jia Deng, Ganqu Cui, Lifan Yuan, Huan-ang Gao, Huimin Chen, Zhiyuan Liu, Maosong Sun.<br>
+  *NeurIPS 2024 Submission* [[code](https://github.com/HBX-hbx/dynamics_of_zero-shot_generalization)]
 
 # Research & Project Experiences
 
@@ -85,6 +89,9 @@ Honors & Awards
 * Third Prize in THU Challenge Cup Academic Competition, Tsinghua University. (04, 2022)
 * December-9th Scholarship, highest scholarship in Dept. of CST. (01, 2023)
 * Comprehensive Excellence Award for the 2022-2023 school year, Dept. of CST. (10, 2023)
+* Five Star ZiJing Volunteer Award, Tsinghua University Communist Youth League Committee. (05, 2024)
+* Outstanding Paper Award for Diploma Project, Tsinghua University. (06, 2024)
+* Outstanding Graduate Award, Beijing Municipal Education Commission. (06, 2024)
 
 Skills & Expertise 
 ======
