@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-02-01-Ultrafeedback
 excerpt: 'We finally present UltraFeedback, a large-scale, high-quality, and diversified AI feedback dataset, which contains over 1 million GPT-4 feedback for 250k user-assistant conversations from various aspects. Built upon UltraFeedback, we align a LLaMA-based model by best-of-n sampling and reinforcement learning, demonstrating its exceptional performance on chat benchmarks.'
 date: 2024-02-01
-venue: '<b>ICML</b>'
+venue: '<b>ICML Poster</b>'
 paperurl: 'https://arxiv.org/abs/2310.01377'
 citation: 'Ultrafeedback: Boosting language models with high-quality feedback
 G Cui, L Yuan, N Ding, G Yao, B He, W Zhu, Y Ni, G Xie, Z Liu… - arXiv preprint arXiv:2310.01377, 2023'
