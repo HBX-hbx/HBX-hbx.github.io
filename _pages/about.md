@@ -14,10 +14,6 @@ This is Bingxiang He's personal homepage. <!--Please also refer to my [homepage@
 ## Biography
 
 I am a first year PhD student studying at Tsinghua University starting from Fall 2024, majoring in Computer Science and Technology. I am a member of [THUNLP](http://nlp.csai.tsinghua.edu.cn/), advised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). My research interests primarily lie in the field of natural language processing, with a particular focus on alignment of LLMs.
-<!-- 
-My first scientific research project is about text backdoor attack and defense. In recent years, many attack and defense models have emerged in the field of text backdoor attack and defense, but there is a lack of a unified implementation and standard evaluation platform in the field of backdoor attack. Therefore, we launched the text backdoor attack and defense toolkit `OpenBackdoor`, which integrates a large number of existing attack and defense algorithms, and also introduced a backdoor defense method `CUBE`.
-
-Looking forward, I am going to be a Ph.D. student in [THUNLP Lab](https://nlp.csai.tsinghua.edu.cn/), [Dept. of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), also advised by Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/), starting from Fall 2024.  -->
 
 <b>Research Highlights:</b>
 

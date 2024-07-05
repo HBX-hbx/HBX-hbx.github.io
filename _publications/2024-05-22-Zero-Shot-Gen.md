@@ -2,7 +2,7 @@
 title: "Zero-Shot Generalization during Instruction Tuning: Insights from Similarity and Granularity"
 collection: publications
 permalink: /publication/2024-05-22-Zero-Shot-Gen
-excerpt: "We first demonstrate through multiple metrics that zero-shot generalization during instruction tuning happens very early. Next, we investigate the facilitation of zero-shot generalization from both data similarity and granularity perspectives, confirming that encountering highly similar and fine-grained training data earlier during instruction tuning, without the constraints of defined "tasks", enables better generalization. Finally, we propose a more grounded training data arrangement method, Test-centric Multi-turn Arrangement, and show its effectiveness in promoting continual learning and further loss reduction."
+excerpt: "We first demonstrate through multiple metrics that zero-shot generalization during instruction tuning happens very early. Next, we investigate the facilitation of zero-shot generalization from both data similarity and granularity perspectives, confirming that encountering highly similar and fine-grained training data earlier during instruction tuning, without the constraints of defined \"tasks\", enables better generalization. Finally, we propose a more grounded training data arrangement method, Test-centric Multi-turn Arrangement, and show its effectiveness in promoting continual learning and further loss reduction."
 date: 2024-05-22
 venue: '<b>NeurIPS In Submission</b>'
 paperurl: 'https://arxiv.org/abs/2406.11721'
