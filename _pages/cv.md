@@ -99,7 +99,7 @@ Honors & Awards
 * Second Prize in National Undergraduate Physics Competition, Beijing Physics Society. (04, 2021)
 * Comprehensive Merit Scholarship of Tsinghua for the 2020-2021 school year, Dept. of CST. (10, 2021)
 * Third Prize in THU Challenge Cup Academic Competition, Tsinghua University. (04, 2022)
-* Comprehensive Merit Scholarship of Tsinghua for the 2022-2023 school year, Dept. of CST. (10, 2022)
+* Comprehensive Merit Scholarship of Tsinghua for the 2021-2022 school year, Dept. of CST. (10, 2022)
 * Comprehensive Merit Scholarship of Tsinghua for the 2022-2023 school year, Dept. of CST. (10, 2023)
 * Five Star ZiJing Volunteer Award, Tsinghua University Communist Youth League Committee. (05, 2024)
 * Outstanding Paper Award for Diploma Project, Tsinghua University. (06, 2024)
