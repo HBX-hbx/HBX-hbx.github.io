@@ -57,21 +57,29 @@ Publications
   Ganqu Cui\*, Lifan Yuan\*, **Bingxiang He**, Yangyi Chen, Zhiyuan Liu, Maosong Sun.<br>
   *NeurIPS Datasets & Benchmarks 2022* [[code]](https://github.com/thunlp/OpenBackdoor)
 
-<!-- # Research & Project Experiences
+# Projects
 
-+ Apr 2022 - Sept 2022: **OpenBackdoor: An open-source toolkit for textual backdoor attack and defense**
-  + Directed by Associate [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/), THUNLP.
++ **OpenBackdoor: An open-source toolkit for textual backdoor attack and defense [[GitHub]](https://github.com/thunlp/OpenBackdoor) [[Paper]](https://arxiv.org/abs/2206.08514)**
   + Summarize three practical scenarios of attack methods based on their accessibility and goals.
   + Conclude novel metrics for three evaluation dimensions and recommend scenario-specified evaluation methodologies.
-  + Develop an open-source toolkit [OpenBackdoor](https://github.com/thunlp/OpenBackdoor) and conduct extensive benchmark experiments.
+  + Develop an open-source toolkit OpenBackdoor and conduct extensive benchmark experiments.
   + Propose **CUBE**, a simple yet strong baseline method targeting purifying poisoned datasets.
-  + Second author. Paper submitted to NeurIPS 2022 D&B.
-  
-+ Jul 2023 - Now: Research and development based on semantic understanding with Chinese characteristics
-  + Language: Python
-  + From: MIGU
-  + Responsibilities: Core Member
-  + Solution: Using CPM-C as the base model, we extensively collect data including the MFAs’speeches, etc., and carry out post-training, supervised fine-tuning, and RLHF three-stage training. -->
++ **Tell Me More: Implementation and evaluation of Mistral-Interact [[GitHub]](https://github.com/OpenBMB/Tell_Me_More) [[Paper]](https://arxiv.org/abs/2402.09205)**
+  + Better understanding of user judgments
+  + Comprehensive summarization of user intentions
+  + Enhanced model-user interaction experience
+  + Comparable performance with closed-source GPT-4
+
++ **UltraFeedback: A large-scale, fine-grained, diverse preference dataset [[GitHub]](https://github.com/OpenBMB/UltraFeedback) [[Paper]](https://arxiv.org/abs/2310.01377)**
+  + **Scale**: UltraFeedback consists of 64k prompts, 256k responses and high-quality feedback. RLHF researchers could further construct around 340k comparison pairs to train their reward models.
+  + **Diversity**: We collect prompts from various sources and query a diverse set of state-of-the-art open-source and prestigious models. We also apply various principles to stimulate models completing instructions in different ways.
+  + **High-density**: UltraFeedback provides both numerical and textual feedback. Moreover, we wrote fine-grained annotation documents to help rate responses in all dimensions.
+
++ **PRIME: Scalable RL solution for advanced reasoning of language models [[GitHub]](https://github.com/PRIME-RL/PRIME) [[Blog]](https://curvy-check-498.notion.site/Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f)**
+  + We present **PRIME** (**P**rocess **R**einforcement through **IM**plicit R**E**wards), an open-source solution for online RL with process rewards, to advance reasoning abilities of language models **beyond imitation or distillation.**
+  + With PRIME, starting from Qwen2.5-Math-7B-Base, our trained model Eurus-2-7B-PRIME achieves **26.7% pass@1 on AIME 2024**, surpassing GPT-4o and Qwen2.5-Math-7B-Instruct. We achieve this **with only 1/10 data of Qwen Math (230K SFT + 150K RL).**
+  + We also explore inference-time scaling and train EurusPRM, a **SOTA-level math PRM** that pushes the boundary even further.
+
 
 
 <!-- Publications
