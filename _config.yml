@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bingxiang He"
 title_separator          : "-"
 name                     : &name "Bingxiang He"
-description              : &description "PhD candidate@Tsinghua, Beijing, China.\nhbx8309@gmail.com"
+description              : &description "PhD candidate@Tsinghua, Beijing, China.\nhebx24@mails.tsinghua.edu.cn"
 url                      : https://hbx-hbx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HBX-hbx.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Bingxiang He"
   avatar           : "profile.jpg"
-  bio              : "PhD candidate@Tsinghua, THUNLP\nhbx8309@gmail.com"
+  bio              : "PhD candidate@Tsinghua, THUNLP\nhebx24@mails.tsinghua.edu.cn"
   location         : "Beijing, China"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=mb36VikAAAAJ&hl=zh-CN&oi=sra"
-  email            : "hbx8309@gmail.com"
+  email            : "hebx24@mails.tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

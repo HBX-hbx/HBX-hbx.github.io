@@ -29,23 +29,35 @@ Publications
 
 (*indicates equal contribution)
 
-- **A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks** [[Paper]](https://arxiv.org/abs/2206.08514)  **(Spotlight)**<br>
-  Ganqu Cui\*, Lifan Yuan\*, **Bingxiang He**, Yangyi Chen, Zhiyuan Liu, Maosong Sun.<br>
-  *NeurIPS Datasets & Benchmarks 2022* [[code]](https://github.com/thunlp/OpenBackdoor)
-- **Beat LLMs at Their Own Game: Zero-Shot LLM-Generated Text Detection via Querying ChatGPT** [[Paper\]](https://aclanthology.org/2023.emnlp-main.463)<br>
-  Biru Zhu, Lifan Yuan, Ganqu Cui, Yangyi Chen, Chong Fu, **Bingxiang He**, Yangdong Deng, Zhiyuan Liu, Maosong Sun, Ming Gu.<br>
-  *EMNLP 2023 Main* [[code](https://github.com/thunlp/LLM-generated-text-detection)]
-- **UltraFeedback: Boosting Language Models with High-quality Feedback** [[Paper\]](https://arxiv.org/abs/2310.01377)<br>
-  Ganqu Cui\*, Lifan Yuan\*, Ning Ding, Guanming Yao, **Bingxiang He**, Wei Zhu, Yuan Ni, Guotong Xie, Ruobing Xie, Yankai Lin, Zhiyuan Liu, Maosong Sun.<br>
-  *ICML 2024 Poster*
+- **Process Reinforcement through Implicit Rewards** [[Blog\]](https://curvy-check-498.notion.site/Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f)<br>
+  Ganqu Cui$^{*}$, Lifan Yuan$^{*}$, Zefan Wang$^*$, Hanbin Wang$^*$, Wendi Li$^*$, **Bingxiang He\***, Yuchen Fan$^*$, Tianyu Yu$^*$, Qixin Xu$^*$, Weize Chen, Jiarui Yuan, Huayu Chen, Kaiyan Zhang, Xingtai Lv, Shuo Wang, Yuan Yao, Xu Han, Hao Peng, Yu Cheng, Zhiyuan Liu, Maosong Sun, Bowen Zhou, Ning Ding
+  *ICML 2025 Submission* [[code](https://github.com/PRIME-RL/PRIME)]
+
+- **EscapeBench: Pushing Language Models to Think Outside the Box** [[Paper\]](https://arxiv.org/abs/2412.13549)<br>
+  Cheng Qian, Peixuan Han, Qinyu Luo, **Bingxiang He**, Xiusi Chen, Yuji Zhang, Hongyi Du, Jiarui Yao, Xiaocheng Yang, Denghui Zhang, Yunzhu Li, Heng Ji
+  *ACL 2025 Submission* [[code](https://github.com/qiancheng0/EscapeBench)]
+
+- **Zero-Shot Generalization during Instruction Tuning: Insights from Similarity and Granularity** [[Paper\]](https://arxiv.org/abs/2406.11721)<br>
+  **Bingxiang He\***, Ning Ding\*, Cheng Qian\*, Jia Deng, Ganqu Cui, Lifan Yuan, Haiwen Hong, Huan-ang Gao, Longtao Huang, Hui Xue, Huimin Chen, Zhiyuan Liu, Maosong Sun
+  *ACL 2025 Submission* [[code](https://github.com/thunlp/Dynamics-of-Zero-Shot-Generalization)]
+
 - **Tell Me More! Towards Implicit User Intention Understanding of Language Model Driven Agents** [[Paper\]](https://arxiv.org/abs/2402.09205)<br>
   Cheng Qian\*, **Bingxiang He\***, Zhong Zhuang, Jia Deng, Yujia Qin, Xin Cong, Zhong Zhang, Jie Zhou, Yankai Lin, Zhiyuan Liu, Maosong Sun.<br>
   *ACL 2024 Main* [[code](https://github.com/HBX-hbx/Mistral-Interact)]
-- **Zero-Shot Generalization during Instruction Tuning: Insights from Similarity and Granularity** [[Paper\]](https://arxiv.org/abs/2406.11721)<br>
-  **Bingxiang He\***, Ning Ding\*, Cheng Qian\*, Jia Deng, Ganqu Cui, Lifan Yuan, Huan-ang Gao, Huimin Chen, Zhiyuan Liu, Maosong Sun.<br>
-  *NeurIPS 2024 Submission* [[code](https://github.com/HBX-hbx/dynamics_of_zero-shot_generalization)]
 
-# Research & Project Experiences
+- **UltraFeedback: Boosting Language Models with High-quality Feedback** [[Paper\]](https://arxiv.org/abs/2310.01377)<br>
+  Ganqu Cui\*, Lifan Yuan\*, Ning Ding, Guanming Yao, **Bingxiang He**, Wei Zhu, Yuan Ni, Guotong Xie, Ruobing Xie, Yankai Lin, Zhiyuan Liu, Maosong Sun.<br>
+  *ICML 2024 Poster*
+
+- **Beat LLMs at Their Own Game: Zero-Shot LLM-Generated Text Detection via Querying ChatGPT** [[Paper\]](https://aclanthology.org/2023.emnlp-main.463)<br>
+  Biru Zhu, Lifan Yuan, Ganqu Cui, Yangyi Chen, Chong Fu, **Bingxiang He**, Yangdong Deng, Zhiyuan Liu, Maosong Sun, Ming Gu.<br>
+  *EMNLP 2023 Main* [[code](https://github.com/thunlp/LLM-generated-text-detection)]
+
+- **A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks** [[Paper]](https://arxiv.org/abs/2206.08514)  **(Spotlight)**<br>
+  Ganqu Cui\*, Lifan Yuan\*, **Bingxiang He**, Yangyi Chen, Zhiyuan Liu, Maosong Sun.<br>
+  *NeurIPS Datasets & Benchmarks 2022* [[code]](https://github.com/thunlp/OpenBackdoor)
+
+<!-- # Research & Project Experiences
 
 + Apr 2022 - Sept 2022: **OpenBackdoor: An open-source toolkit for textual backdoor attack and defense**
   + Directed by Associate [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/), THUNLP.
@@ -59,7 +71,7 @@ Publications
   + Language: Python
   + From: MIGU
   + Responsibilities: Core Member
-  + Solution: Using CPM-C as the base model, we extensively collect data including the MFAs’speeches, etc., and carry out post-training, supervised fine-tuning, and RLHF three-stage training.
+  + Solution: Using CPM-C as the base model, we extensively collect data including the MFAs’speeches, etc., and carry out post-training, supervised fine-tuning, and RLHF three-stage training. -->
 
 
 <!-- Publications
@@ -85,10 +97,10 @@ Honors & Awards
 
 * Second Prize in Freshmen Scholarship, Tsinghua University. (09, 2020)
 * Second Prize in National Undergraduate Physics Competition, Beijing Physics Society. (04, 2021)
-* Comprehensive Excellence Award for the 2020-2021 school year, Dept. of CST. (10, 2021)
+* Comprehensive Merit Scholarship of Tsinghua for the 2020-2021 school year, Dept. of CST. (10, 2021)
 * Third Prize in THU Challenge Cup Academic Competition, Tsinghua University. (04, 2022)
-* December-9th Scholarship, highest scholarship in Dept. of CST. (01, 2023)
-* Comprehensive Excellence Award for the 2022-2023 school year, Dept. of CST. (10, 2023)
+* Comprehensive Merit Scholarship of Tsinghua for the 2022-2023 school year, Dept. of CST. (10, 2022)
+* Comprehensive Merit Scholarship of Tsinghua for the 2022-2023 school year, Dept. of CST. (10, 2023)
 * Five Star ZiJing Volunteer Award, Tsinghua University Communist Youth League Committee. (05, 2024)
 * Outstanding Paper Award for Diploma Project, Tsinghua University. (06, 2024)
 * Outstanding Graduate Award, Beijing Municipal Education Commission. (06, 2024)
